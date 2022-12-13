@@ -4,12 +4,11 @@ Activate a vibration motor when a moisture sensor is completely submerged in liq
 <br>
 <ul><b>Practical Uses</b>
   <li>Cooking: tool automatically vibrates or mixes when it contacts liquid.</li>
-  <li>Keeping moisture off items: if an object gets wet, keep moisture off by vibrating.(this would require a lower "moisture level" to initiate the vibrations than I had used in my code.</li>
+  <li>Keeping moisture off items: if an object gets wet, keep moisture off by vibrating.(this would require a lower "moisture level" to initiate the vibrations than I had used in my code)</li>
 </ul>
   <ol><b>Materials</b>
+  <dd>I used the <i>Grove Inventor Kit for micro:bit</i>. The specific materials I used are displayed below.
   <dd><img width="200" alt="Screen Shot 2022-12-12 at 9 14 53 PM" src="https://user-images.githubusercontent.com/113719459/207232492-fe8c7cf3-4cf0-40dc-a899-9eebbd9b2bc4.png"></dd>
-
-
   <li>BBC micro:bit</li>
   <li>Grove Shield for micro:bit</li>
   <li>Grove - Universal 4 Pin Unbuckled Cable</li>
@@ -48,3 +47,8 @@ basic.forever(function () {
   <li>Finished!</li>
   <dd>As the video of the final product is too large to be shown here, the video is instead included in the repository as 'SubmergeAndShake.MOV'.</dd>
  </ol>
+<b>References</b><br>
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax <br>
+https://micromaker.co.uk/innovation-lessons/ <br>
+Example Doc: https://github.com/otsop110/microbit-projects
+  
